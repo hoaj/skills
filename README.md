@@ -7,7 +7,7 @@ Works with Claude Code, Cursor, Copilot, Cline, Gemini, and [20+ other agents](h
 ## Install
 
 ```bash
-npx skills add hoaj/skills<skill>
+npx skills add hoaj/skills/<skill>
 ```
 
 ## Skills
