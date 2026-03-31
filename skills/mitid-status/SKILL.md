@@ -11,13 +11,13 @@ Checks current MitID operational status from [digitaliser.dk/driftsstatus](https
 
 ```bash
 # Current status only
-python scripts/check_mitid_status.py
+python3 "$SKILL_DIR/scripts/check_mitid_status.py"
 
 # With latest news/operational updates
-python scripts/check_mitid_status.py --news
+python3 "$SKILL_DIR/scripts/check_mitid_status.py" --news
 
 # JSON output (for piping or scripting)
-python scripts/check_mitid_status.py --news --json
+python3 "$SKILL_DIR/scripts/check_mitid_status.py" --news --json
 ```
 
 **Dependency:** `pip install requests` (only external dependency).
