@@ -1,0 +1,22 @@
+{
+  "name": "hoaj-skills",
+  "owner": {
+    "name": "Andreas Jørgensen",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Personal collection of agent skills by hoaj",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hoaj-skills",
+      "description": "Personal agent skills collection — utilities and integrations",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/mitid-status"
+      ]
+    }
+  ]
+}
