@@ -15,7 +15,7 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/mitid-status"
+        "./skills/run-remote"
       ]
     }
   ]

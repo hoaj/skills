@@ -14,7 +14,7 @@ npx skills add hoaj/skills --skill <skill>
 
 | Skill | Install command |
 |-------|-----------------|
-| [mitid-status](./skills/mitid-status) | `npx skills add hoaj/skills --skill mitid-status` |
+| [run-remote](./skills/run-remote) | `npx skills add hoaj/skills --skill run-remote` |
 
 ## License
 
