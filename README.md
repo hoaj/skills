@@ -12,9 +12,9 @@ npx skills add hoaj/skills --skill <skill>
 
 ## Skills
 
-| Skill | Description |
-|-------|-------------|
-| [mitid-status](./skills/mitid-status) | Check current MitID operational status from digitaliser.dk |
+| Skill | Install command |
+|-------|-----------------|
+| [mitid-status](./skills/mitid-status) | `npx skills add hoaj/skills --skill mitid-status` |
 
 ## License
 
